@@ -20,3 +20,12 @@
     transform: rotate(360deg);
   }
 }
+
+.conter {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr) ;
+
+
+
+
+}

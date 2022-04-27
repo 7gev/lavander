@@ -6,10 +6,8 @@ const Main = () => {
 return (
 
     <div >
+        <a>Посты</a>
 
-      
-        
-    Инфо о постах
     </div>
 
 )

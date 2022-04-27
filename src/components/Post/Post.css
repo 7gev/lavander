@@ -1,0 +1,9 @@
+.post {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    display: grid;
+}
+.post img {
+    width: 100%;
+}
